@@ -1,0 +1,46 @@
+{
+  "name": "richmd-cli",
+  "version": "0.1.0",
+  "description": "RichMD CLI tool",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "richmd": "./lib/script.js"
+  },
+  "keywords": [
+    "RichMD",
+    "richmd-cli",
+    "markdown",
+    "front-end",
+    "webpack",
+    "richmd",
+    "math"
+  ],
+  "author": "nappa <masa.yanagawa721@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bebeji-nappa/richmd-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bebeji-nappa/richmd-cli.git/issues"
+  },
+  "homepage": "https://github.com/bebeji-nappa/richmd-cli.git/",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "commander": "^6.2.1",
+    "core-js": "3",
+    "fs-extra": "^9.0.1",
+    "highlight.js": "^10.4.1",
+    "katex": "^0.12.0",
+    "mkdirp": "^1.0.4"
+  }
+}
