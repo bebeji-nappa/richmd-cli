@@ -1,5 +1,5 @@
 # RichMD CLI
-This is RichMD CLI tools.
+This is [RichMD](https://github.com/bebeji-nappa/richmd) CLI tools.
 
 ## Usage
 Using `richmd` makes it easy to use RichMD.
