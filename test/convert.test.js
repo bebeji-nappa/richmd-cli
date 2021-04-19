@@ -1,4 +1,4 @@
-const { richmd } = require("../src/richmdParse.js");
+const { richmd } = require("../src/index.js");
 
 describe("heading convert", () => {
   it("heading1", () => {
