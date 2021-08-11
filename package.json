@@ -46,6 +46,6 @@
     "highlight.js": "^11.2.0",
     "katex": "^0.13.13",
     "mkdirp": "^1.0.4",
-    "richmd": "/Users/yanagawamasakazu/dev/richmd"
+    "richmd": "^2.1.6"
   }
 }

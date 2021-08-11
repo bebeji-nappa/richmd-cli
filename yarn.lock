@@ -4535,33 +4535,16 @@ fsevents@^2.3.2:
     katex: ^0.13.13
     mkdirp: ^1.0.4
     prettier: ^2.3.2
-    richmd: /Users/yanagawamasakazu/dev/richmd
+    richmd: ^2.1.6
     typescript: ^4.3.5
   bin:
     richmd: ./lib/script.js
   languageName: unknown
   linkType: soft
 
-"richmd@file:/Users/yanagawamasakazu/dev/richmd::locator=richmd-cli%40workspace%3A.":
-  version: 2.1.4
-  resolution: "richmd@file:/Users/yanagawamasakazu/dev/richmd#/Users/yanagawamasakazu/dev/richmd::hash=0abd02&locator=richmd-cli%40workspace%3A."
-  dependencies:
-    commander: ^8.1.0
-    core-js: 3.16.1
-    fs-extra: ^10.0.0
-    highlight.js: ^11.2.0
-    katex: ^0.13.13
-    mkdirp: ^1.0.4
-    richmd-cli: ^0.2.0
-  bin:
-    richmd: ./lib/script.js
-  checksum: e110b3de2143896074c09d3c60e53728d49627cac629736d49e37fd07d52fea8cee0e3eb65265ef06afd6d3fb05c2d78eb2e45b0a64596651d89d2b43f6f14cc
-  languageName: node
-  linkType: hard
-
-"richmd@npm:^2.0.0":
-  version: 2.1.5
-  resolution: "richmd@npm:2.1.5"
+"richmd@npm:^2.0.0, richmd@npm:^2.1.6":
+  version: 2.1.6
+  resolution: "richmd@npm:2.1.6"
   dependencies:
     commander: ^8.1.0
     core-js: 3.16.1
@@ -4572,7 +4555,7 @@ fsevents@^2.3.2:
     richmd-cli: ^0.2.0
   bin:
     richmd: lib/script.js
-  checksum: ae6bb06feaedea790f44fb4bbbc0967739658c6dc4f493dc94b99fe684e7135feb949cfa3d43fbd9fbd48501ad3773c7ed9ec964badcacc18b56424986be7176
+  checksum: 461c4940164108d5b3adea818a3cbce86da762a121f14037dff743c6944706645e940984c2a085b3b8ba69515b3d0a0001dff876c9fc8377a01828d6643b28c6
   languageName: node
   linkType: hard
 
