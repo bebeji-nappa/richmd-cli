@@ -1,7 +1,7 @@
 # RichMD CLI
 This is [RichMD](https://github.com/bebeji-nappa/richmd) CLI tools.
 
-# Install
+## Install
 
 It install together with [RichMD](https://github.com/bebeji-nappa/richmd).
 
