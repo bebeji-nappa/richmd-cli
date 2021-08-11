@@ -1,6 +1,16 @@
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+
 dist/
 node_modules/
 yarn-error.log
 debug.js
 dist/
 richmd/
+lib/highlight
+lib/katex
