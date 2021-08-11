@@ -1,6 +1,17 @@
 # RichMD CLI
 This is [RichMD](https://github.com/bebeji-nappa/richmd) CLI tools.
 
+# Install
+
+It install together with [RichMD](https://github.com/bebeji-nappa/richmd).
+
+```bash
+# Using NPM
+npm i richmd richmd-cli
+# Using Yarn
+yarn add richmd richmd-cli
+```
+
 ## Usage
 Using `richmd` makes it easy to use RichMD.
 If you want to try using RichMD right away, this is useful. Let's a read Usage Documentation!
