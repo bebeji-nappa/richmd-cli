@@ -4,3 +4,4 @@ yarn-error.log
 debug.js
 dist/
 richmd/
+lib/
